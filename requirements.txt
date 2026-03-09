@@ -1,0 +1,5 @@
+gdspy
+gmsh
+scikit-rf
+gdsfactory
+jupyterlab

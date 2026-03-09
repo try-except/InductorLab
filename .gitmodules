@@ -1,0 +1,3 @@
+[submodule "lib/gds2palace"]
+	path = lib/gds2palace
+	url = git@github.com:VolkerMuehlhaus/gds2palace_ihp_sg13g2.git
