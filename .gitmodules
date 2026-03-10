@@ -1,3 +1,6 @@
-[submodule "lib/gds2palace"]
-	path = lib/gds2palace
-	url = git@github.com:VolkerMuehlhaus/gds2palace_ihp_sg13g2.git
+[submodule "lib/pcLab"]
+	path = lib/pcLab
+	url = git@github.com:dgrujic/pcLab.git
+[submodule "lib/palace"]
+	path = lib/palace
+	url = git@github.com:awslabs/palace.git
