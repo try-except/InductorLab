@@ -7,3 +7,6 @@
 [submodule "lib/gds2palace"]
 	path = lib/gds2palace
 	url = git@github.com:VolkerMuehlhaus/gds2palace_ihp_sg13g2.git
+[submodule "lib/ihp_open_pdk"]
+	path = lib/ihp_open_pdk
+	url = git@github.com:IHP-GmbH/IHP-Open-PDK.git
