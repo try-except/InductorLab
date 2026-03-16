@@ -5,3 +5,4 @@ gdsfactory
 ihp-gdsfactory
 jupyterlab
 gds2palace
+gpkit
