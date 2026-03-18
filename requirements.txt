@@ -6,3 +6,4 @@ ihp-gdsfactory
 jupyterlab
 gds2palace
 gpkit
+scikit-rf
