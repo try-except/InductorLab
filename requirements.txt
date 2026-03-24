@@ -1,9 +1,6 @@
-gdspy
 gmsh
 scikit-rf
-gdsfactory
-ihp-gdsfactory
 jupyterlab
 gds2palace
 gpkit
-scikit-rf
+klayout
