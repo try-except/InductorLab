@@ -1,6 +1,3 @@
-[submodule "lib/pcLab"]
-	path = lib/pcLab
-	url = git@github.com:dgrujic/pcLab.git
 [submodule "lib/palace"]
 	path = lib/palace
 	url = git@github.com:awslabs/palace.git
