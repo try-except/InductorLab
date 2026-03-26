@@ -7,3 +7,9 @@
 [submodule "lib/ihp_open_pdk"]
 	path = lib/ihp_open_pdk
 	url = git@github.com:IHP-GmbH/IHP-Open-PDK.git
+[submodule "lib/gmid"]
+	path = lib/gmid
+	url = git@github.com:medwatt/gmid.git
+[submodule "lib/ihp_analog_academy"]
+	path = lib/ihp_analog_academy
+	url = git@github.com:IHP-GmbH/IHP-AnalogAcademy.git
