@@ -13,3 +13,9 @@
 [submodule "lib/ihp_analog_academy"]
 	path = lib/ihp_analog_academy
 	url = git@github.com:IHP-GmbH/IHP-AnalogAcademy.git
+[submodule "lib/iic_jku_ihp_open_pdk"]
+	path = lib/iic_jku_ihp_open_pdk
+	url = git@github.com:iic-jku/IHP-Open-PDK.git
+[submodule "lib/gmid_book"]
+	path = lib/gmid_book
+	url = git@github.com:bmurmann/Book-on-gm-ID-design.git

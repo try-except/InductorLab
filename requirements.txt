@@ -4,3 +4,4 @@ jupyterlab
 gds2palace
 gpkit
 klayout
+pygmid
